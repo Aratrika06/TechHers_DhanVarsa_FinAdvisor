@@ -1,13 +1,16 @@
-# DhanVarsa_FinAdvisor
+#DhanVarsa_FinAdvisor
 This is India's one of the first online personalized AI based Financial Advisor 
 
 
 
-TechStack:
+#TechStack:
 
 Step 1: User Data Collection through Forms and Storage
+
 Step 2:  Personalized investment recommendation(Raag +LLM)
+
 Step 3: Real time sentiment analysis from market and social media( ai powered chat bot)
+
 Step 4: Dashboard for Visual portfolio Tracking
 			
 Frontend :
